@@ -1,0 +1,8 @@
+.settings/
+/Debug/
+*.o
+*.x
+*.log
+g04
+messenger_server
+messenger_client

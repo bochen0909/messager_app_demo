@@ -1,0 +1,2 @@
+servport:7777
+servhost:localhost
